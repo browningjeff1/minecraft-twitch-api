@@ -1,0 +1,5 @@
+node_modules
+mplayer-svn-38117
+.vscode
+__pycache__
+.env
